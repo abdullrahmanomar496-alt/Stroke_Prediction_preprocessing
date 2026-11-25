@@ -1,6 +1,6 @@
 Stroke Prediction – Data Visualization & Preprocessing
 
-* Project Overview :
+## Project Overview :
 
 This project focuses on exploring, cleaning, and preparing a healthcare dataset for future Machine Learning applications in stroke prediction.
 
@@ -11,7 +11,7 @@ Target Variable: "stroke"
 - "0" = No Stroke
 - "1" = Stroke
 
-* Project Objectives :
+##  Project Objectives :
 
 - Understand the structure and characteristics of healthcare data.
 - Perform Exploratory Data Analysis (EDA).
@@ -22,7 +22,7 @@ Target Variable: "stroke"
 - Apply feature scaling.
 - Handle class imbalance using SMOTE.
 
-* Dataset Information :
+## Dataset Information :
 
 Dataset: Stroke Prediction Dataset
 
@@ -42,7 +42,7 @@ The dataset contains patient information and health-related features, including:
 - Smoking Status
 - Stroke (Target Variable)
 
-* Technologies & Libraries :
+## Technologies & Libraries :
 
 - Python
 - Pandas
@@ -52,7 +52,7 @@ The dataset contains patient information and health-related features, including:
 - Scikit-learn
 - Imbalanced-learn
 
-* Project Workflow :
+## Project Workflow :
 
 1. Data Loading & Initial Inspection
 
@@ -109,13 +109,13 @@ The dataset contains patient information and health-related features, including:
 - Verified the balanced class distribution.
 - Kept the testing data unchanged.
 
-* Final Outcome :
+## Final Outcome :
 
 The dataset was cleaned, explored, transformed, and prepared for future Machine Learning model development.
 
 The project demonstrates the importance of data preprocessing and exploratory data analysis in healthcare-related Machine Learning tasks.
 
-* Learning Outcomes :
+## Learning Outcomes :
 
 Through this project, I practiced:
 
